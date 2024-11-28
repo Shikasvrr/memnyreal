@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Bimbo ;
+    font-style: normal;
+    src: url(fonts/Bimbo-Regular.woff2);
+}
+@font-face {
+    font-family: Bimbo;
+    font-style: light;
+    src: url(fonts/BimboLight.woff2);
+}
+@font-face {
+    font-family: Gunny;
+    src: url(fonts/Gunny.woff2);
+}
+@font-face {
+    font-family: Rozovii;
+   src: url(fonts/Rozovii.woff2);
+}
